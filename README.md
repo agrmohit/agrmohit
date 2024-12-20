@@ -33,7 +33,7 @@ Here's a snapshot of my GitHub activity
     alt="My GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_latte&hide_border=true&hide_title=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github"
     alt="My GitHub Stats"
   />
 </picture>
