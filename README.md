@@ -19,17 +19,17 @@ Here's a snapshot of my GitHub activity
 
 <picture>
   <source
+    media="(prefers-color-scheme: dark)"
     srcset="
       https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github
     "
-    media="(prefers-color-scheme: dark)"
     alt="My GitHub Stats"
   />
   <source
+    media="(prefers-color-scheme: light)"
     srcset="
       https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_latte&hide_border=true&hide_title=true&rank_icon=github
     "
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     alt="My GitHub Stats"
   />
   <img
