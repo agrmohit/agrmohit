@@ -18,24 +18,9 @@ across the web
 Here's a snapshot of my GitHub activity
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github
-    "
-    alt="My GitHub Stats"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_latte&hide_border=true&hide_title=true&rank_icon=github
-    "
-    alt="My GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github"
-    alt="My GitHub Stats"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide_title=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_latte&hide_border=true&hide_title=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agrmohit&show_icons=true&theme=catppuccin_latte&hide_border=true&hide_title=true&rank_icon=github" alt="My GitHub Stats" />
 </picture>
 
 ### Find Me Online
