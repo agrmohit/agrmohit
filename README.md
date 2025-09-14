@@ -28,5 +28,5 @@ Here's a snapshot of my GitHub activity
 - **GitHub:** [agrmohit](https://github.com/agrmohit)
 - **LinkedIn:** [agrmohit](https://linkedin.com/in/agrmohit)
 - **Email:** [hi@agrmohit.com](mailto:hi@agrmohit.com)
-- **Bluesky:** [agrmohit.com](https://agrmohit.com)
+- **Bluesky:** [agrmohit.com](https://bsky.app/profile/agrmohit.com)
 - **Mastodon:** [@agrmohit@hachyderm.io](https://hachyderm.io/@agrmohit)
