@@ -1,4 +1,4 @@
-## Hi there, I'm Mohit Raj! 👋
+## Hi there, I'm Mohit! 👋
 
 Welcome to my GitHub profile! I'm a Backend Developer with a passion for
 building efficient and scalable systems. I am known as `@agrmohit` here and
