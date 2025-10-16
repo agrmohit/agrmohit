@@ -6,7 +6,7 @@ across the web
 
 ### About Me
 
-- 🌱 Expanding my expertise in Go, JavaScript, TypeScript, and Python
+- 🌱 Expanding my expertise in Clojure, Go, TypeScript, and Python
 - 💬 Up for discussions on backend systems, system design, or the latest in tech
 - 📫 You can reach me at:
   [hi@agrmohit.com](mailto:hi@agrmohit.com?subject=Hello%20from%20GitHub%21)
