@@ -1,8 +1,8 @@
 ## Hi there, I'm Mohit! 👋
 
 Welcome to my GitHub profile! I'm a Backend Developer with a passion for
-building efficient and scalable systems. I am known as `@agrmohit` here and
-across the web
+building simple, logical and predictable systems. I am known as `@agrmohit`
+here and across the web
 
 ### About Me
 
