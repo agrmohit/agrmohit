@@ -2,16 +2,14 @@
 
 Welcome to my GitHub profile! I'm a Backend Developer with a passion for
 building simple, logical and predictable systems. I am known as `@agrmohit`
-here and across the web
+here and across the web.
 
 ### About Me
 
-- 🌱 Expanding my expertise in Clojure, Go, TypeScript, and Python
+- 🌱 Expanding my expertise in Go, Python, and TypeScript
 - 💬 Up for discussions on backend systems, system design, or the latest in tech
-- 📫 You can reach me at:
-  [hi@agrmohit.com](mailto:hi@agrmohit.com?subject=Hello%20from%20GitHub%21)
-- ⚡ Fun fact: When I'm not coding, I love exploring space, reading sci-fi, and
-  watching anime
+- ⚡ When I'm not coding, I love exploring space, reading sci-fi, and watching
+  anime
 
 ### GitHub Stats
 
